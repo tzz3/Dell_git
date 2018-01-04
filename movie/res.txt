@@ -1,0 +1,297 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<META http-equiv=Content-Type content="text/html; charset=gb2312">
+<title>电影天堂_电影下载_高清首发</title>
+<META content="电影天堂,迅雷电影,电影下载,迅雷电影下载" name=keywords>
+<META content="最好的迅雷电影下载网，分享最新电影，高清电影、综艺、动漫、电视剧等下载！" name=description>
+<link href="/css/dygod.css" rel="stylesheet" type="text/css" /><base target="_blank">
+ <script language=javascript>kstatus(); function kstatus(){self.status="喜欢本站请分享给您的朋友哦，TA会感谢您，谢谢支持！"; setTimeout("kstatus()",0);}</script>
+<script type="text/javascript">
+function goPAGE() {
+	if ((navigator.userAgent.match(/(phone|pad|pod|iPhone|iPod|ios|iPad|Android|Mobile|BlackBerry|IEMobile|MQQBrowser|JUC|Fennec|wOSBrowser|BrowserNG|WebOS|Symbian|Windows Phone)/i))) {
+		return "wap";
+}
+	else {
+		return "win";	
+		}
+}
+</script>
+</head><body style="width:960px;margin:0 auto;">
+
+<div id="header"><div class="contain"><h4><a href="/"></a></h4>
+				<div id="headerright"><div id="about" align="right">
+                      <SCRIPT src="/jsdd/760h.js"></SCRIPT>
+					</div>
+			</div>
+<div id="menu"><div class="contain"><ul>
+<li>
+<li><a href="/2/">动作片</a></li>
+<li><a href="/0/">剧情片</a></li>
+<li><a href="/3/">爱情片</a></li>
+<li><a href="/1/">喜剧片</a></li>
+<li><a href="/4/">科幻片</a></li>
+<li><a href="/8/">恐怖片</a></li>
+<li><a href="/5/">动画片</a></li>
+<li><a href="/7/">惊悚片</a></li>
+<li><a href="/14/">战争片</a></li>
+<li><a href="/15/">犯罪片</a></li>
+<li><a href="/html/tv/hytv/index.html">华语连续剧</a></li><li>
+<a href="/html/tv/oumeitv/index.html">美剧</a></li><li>
+<a href="/html/tv/rihantv/index.html">日韩剧</a></li><li>
+<a href="/html/zongyi2013/index.html">综艺</a></li><li>
+<a href="/html/dongman/index.html">动漫资源</a></li><li>
+<a href="http://www.xiacai.com">彩票购买</a></li><li>
+<a href="/support/GuestBook.php" target="_blank">留言板</a></li><li>
+<a href="#" onclick="javascript:window.external.AddFavorite('http://www.dy2018.com', '电影天堂-dy2018.com')" target="_self"><font color=red>收藏本站</font></a></a></li><li>
+<a href="index.html" onClick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.dy2018.com/');return(false);" style="behavior: url(#default#homepage)">设为主页</a></li>
+</ul>
+			</div>
+ </div>
+<div class="bd2">
+<div class="bd4l" style="width: 960px">
+<table cellspacing="0" border="0" cellpadding="0" width="100%"  >
+<tr align="center" >
+<script type="text/javascript">if(goPAGE()=="win"){document.writeln("<SCRIPT src='/jsdd/960.js'></SCR"+"IPT>")}</script>
+</tr>
+</table>
+</div>
+<!--##########}end:header###########-->
+<style>
+.co_content22{width:950px;height:auto;overflow:hidden;}
+.co_content22 ul{width:460px;float:left;line-height:25px;margin-left:10px;}
+.co_content22 ul li a{width:380px;float:left;overflow:hidden;}
+.co_content22 li span{float:right;}
+.co_content222{width:470px;height:auto;overflow:hidden;}
+.co_content222 ul{width:455px;float:left;line-height:25px;margin-left:10px;}
+.co_content222 ul li a{width:370px;float:left;overflow:hidden;}
+.co_content222 li span{float:right;}
+</style>
+<div  style="width:950px;height:35px;overflow:hidden;margin:5px auto;float:left;">
+<!--{start:搜索框-->
+<div class="search" style="float:left;width:535px;" >
+<form action="/e/search/index.php" method="post" name="searchform" id="searchform"><input type="hidden" name="classid" value="0" /><input type="hidden" name="show" value="title,smalltext" /><input type="hidden" name="tempid" value="1" /><div class="searchl"><p><strong>搜索:</strong><input name="keyboard"  type="text" value="" class="formhue" />&nbsp;<p></div><div class="searchr"><input name="Submit" type="Submit"  value="立即搜索"  /></div></form>
+</div>
+<!--}end:搜索框-->
+<!--{start:dy2018 buttton-->
+<div  style="float:left;width:395px;margin-left:20px;" >
+<a href="javascript:window.external.addFavorite('http://www.dy2018.com/','dy2018.com-电影天堂')" target=_self class="style11"><img src="/images/bbs_btn.gif" alt="电影天堂" border="0" /></a></a></span>  </a>
+<a style="margin-left:20px;"  href="http://www.dy2018.com/support/GuestBook.php" target="_blank" class="style11"><img src="/d/file/html/gndy/dyzz/2013-09-05/122d856bf3150e3366e31210a34df980.gif" alt="电影天堂"></a>
+</div>
+<!--}end:dy2018 buttton-->
+</div>
+<div style="clear: both;"></div>
+<div style="width:950px;height:auto;overflow:hidden;margin:5px 0 0 2px;">
+<div class="co_area2" style="float:left;width:470px;height:auto;overflow:hidden;">
+<div class="title_all"><p><span style="float:left;"><a href="http://www.dy2018.com/html/gndy/dyzz/index.html">2017新片精品</a></span><em style="float:right;"><a href="http://www.dy2018.com/html/gndy/dyzz/index.html">更多>></a></em><div style="float:right;margin:2px 20px 0 0"></div></p></div>
+<div class="co_content222">
+<ul>
+<!--<li><a rel="nofollow" href='http://oa.code.twyxi.com/htmlcode/746.html'  target='_blank'><font color=#FF0000><b>2017《越烨越有鸡》刘烨陈小春首次联手大作曝光</b></font></a></li>-->
+<li><a href='/i/98668.html' title="2017年美国6.2分动作片《全球风暴》BD中英双字">2017年美国6.2分动作片《全球风暴》BD中英双字</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98864.html' title="2017年印度8.2分喜剧片《起跑线》BD印度语中字">2017年印度8.2分喜剧片《起跑线》BD印度语中字</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/98858.html' title="2017年韩国动作片《真实》BD韩语中字">2017年韩国动作片《真实》BD韩语中字</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/98851.html' title="2017年国产6.6分动作片《引爆者》HD高清国语中字">2017年国产6.6分动作片《引爆者》HD高清国语中字</a><span><font color=#FF0000>12-29</font></span></li>
+<li><a href='/i/98709.html' title="2017年国产7.2分动作片《英伦对决》BD中英双字">2017年国产7.2分动作片《英伦对决》BD中英双字</a><span><font color=#FF0000>12-28</font></span></li>
+<li><a href='/i/98838.html' title="2017年欧美8.5分科幻片《银翼杀手2049》HD大陆公映双语中字">2017年欧美8.5分科幻片《银翼杀手2049》HD大陆公映双语中字</a><span><font color=#FF0000>12-28</font></span></li>
+<li><a href='/i/98834.html' title="2017年国产8.2分记录片《地球神奇的一天》HD高清国语中字">2017年国产8.2分记录片《地球神奇的一天》HD高清国语中字</a><span><font color=#FF0000>12-24</font></span></li>
+<li><a href='/i/98820.html' title="2017年国产7.2分喜剧片《羞羞的铁拳》HD高清国语中英双字">2017年国产7.2分喜剧片《羞羞的铁拳》HD高清国语中英双字</a><span><font color=#FF0000>12-22</font></span></li>
+<li><a href='/i/98818.html' title="2017年美国6.7分科幻片《正义联盟》HD高清韩版中英双字">2017年美国6.7分科幻片《正义联盟》HD高清韩版中英双字</a><span><font color=#FF0000>12-22</font></span></li>
+<li><a href='/i/98810.html' title="2017年国产8.5分剧情片《嘉年华》HD高清国语中字">2017年国产8.5分剧情片《嘉年华》HD高清国语中字</a><span><font color=#FF0000>12-21</font></span></li>
+<li><a href='/i/98586.html' title="2017年美国7.7分恐怖片《小丑回魂IT》BD中英双字">2017年美国7.7分恐怖片《小丑回魂IT》BD中英双字</a><span><font color=#FF0000>12-19</font></span></li>
+<li><a href='/i/98796.html' title="2017年国产7.5分动作片《追龙》HD高清国语中字">2017年国产7.5分动作片《追龙》HD高清国语中字</a><span><font color=#FF0000>12-17</font></span></li>
+<li><a href='/i/98393.html' title="2017年韩国7.6分动作片《军舰岛》BD导演剪辑版韩语中字">2017年韩国7.6分动作片《军舰岛》BD导演剪辑版韩语中字</a><span><font color=#FF0000>12-16</font></span></li>
+<li><a href='/i/98788.html' title="2017年国产动作片《密战》HD高清国语中英双字">2017年国产动作片《密战》HD高清国语中英双字</a><span><font color=#FF0000>12-16</font></span></li>
+<li><a href='/i/98551.html' title="2017年国产7.4分动作片《杀破狼·贪狼》BD国粤双语中字">2017年国产7.4分动作片《杀破狼·贪狼》BD国粤双语中字</a><span><font color=#FF0000>12-13</font></span></li>
+</ul>
+</div>
+</div>
+<div class="co_area2" style="float:left;width:470px;height:auto;overflow:hidden;margin-left:6px;">
+<div class="title_all"><p><span style="float:left;">2017必看热片</span><em style="float:right;"><a href="/html/bikan/">更多>></a></em></p></div>
+<div class="co_content222">
+<ul>
+<li><a href='/i/98820.html' title="2017年国产7.2分喜剧片《羞羞的铁拳》HD高清国语中英双字">2017年国产7.2分喜剧片《羞羞的铁拳》HD高清国语中英双字</a><span><font color=#FF0000>12-22</font></span></li>
+<li><a href='/i/98818.html' title="2017年美国6.7分科幻片《正义联盟》HD高清韩版中英双字">2017年美国6.7分科幻片《正义联盟》HD高清韩版中英双字</a><span><font color=#FF0000>12-22</font></span></li>
+<li><a href='/i/98796.html' title="2017年国产7.5分动作片《追龙》HD高清国语中字">2017年国产7.5分动作片《追龙》HD高清国语中字</a><span><font color=#FF0000>12-17</font></span></li>
+<li><a href='/i/98601.html' title="2017年国产7.4分动作片《战狼2》BD国语中英双字">2017年国产7.4分动作片《战狼2》BD国语中英双字</a><span><font color=#FF0000>12-01</font></span></li>
+<li><a href='/i/98693.html' title="2017年欧美7.2分动作片《王牌特工2：黄金圈》BD中英双字">2017年欧美7.2分动作片《王牌特工2：黄金圈》BD中英双字</a><span><font color=#FF0000>11-26</font></span></li>
+<li><a href='/i/98596.html' title="2017年法国7.1分动作片《星际特工：千星之城》BD中英双字">2017年法国7.1分动作片《星际特工：千星之城》BD中英双字</a><span><font color=#FF0000>11-13</font></span></li>
+<li><a href='/i/98477.html' title="2017年欧美7.0分科幻片《猩球崛起3：终极之战》BD双语中英双字">2017年欧美7.0分科幻片《猩球崛起3：终极之战》BD双语中英双字</a><span><font color=#FF0000>10-16</font></span></li>
+<li><a href='/i/98435.html' title="2017年美国7.5分科幻片《蜘蛛侠：英雄归来》BD中英双字">2017年美国7.5分科幻片《蜘蛛侠：英雄归来》BD中英双字</a><span><font color=#FF0000>10-03</font></span></li>
+<li><a href='/i/98364.html' title="2017年欧美科幻片《变形金刚5最后的骑士》BD中英双字">2017年欧美科幻片《变形金刚5最后的骑士》BD中英双字</a><span><font color=#FF0000>09-20</font></span></li>
+<li><a href='/i/98340.html' title="2017年欧美7.2分动作片《神奇女侠》BD国英双语中英双字">2017年欧美7.2分动作片《神奇女侠》BD国英双语中英双字</a><span><font color=#FF0000>09-15</font></span></li>
+<li><a href='/i/98361.html' title="2017年欧美7.3分动作片《加勒比海盗5：死无对证》BD双语中字">2017年欧美7.3分动作片《加勒比海盗5：死无对证》BD双语中字</a><span><font color=#FF0000>09-13</font></span></li>
+<li><a href='/i/98266.html' title="2017年美国8.2分动作片《银河护卫队2》BD国英双语中英双字">2017年美国8.2分动作片《银河护卫队2》BD国英双语中英双字</a><span><font color=#FF0000>08-28</font></span></li>
+<li><a href='/i/98157.html' title=" 2017年美国7.4分科幻片《异形：契约》BD中英双字"> 2017年美国7.4分科幻片《异形：契约》BD中英双字</a><span><font color=#FF0000>08-12</font></span></li>
+<li><a href='/i/97979.html' title="2017年美国6.6分动作片《攻壳机动队真人版》BD国英双语中英双字">2017年美国6.6分动作片《攻壳机动队真人版》BD国英双语中英双字</a><span><font color=#FF0000>07-14</font></span></li>
+<li><a href='/i/98084.html' title="2016年印度9.2分动作片《摔跤吧！爸爸》国印双语中字">2016年印度9.2分动作片《摔跤吧！爸爸》国印双语中字</a><span><font color=#FF0000>07-06</font></span></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div style="width:950px;height:auto;overflow:hidden;margin:10px 0 0 2px;">
+<div class="co_area2" style="float:left;width:470px;height:auto;overflow:hidden;">
+<div class="title_all"><p><span style="float:left;"><a href="/html/gndy/index.html">迅雷电影资源</a></span><em style="float:right;"><a href="/html/gndy/index.html">更多>></a></em></p></div>
+<div class="co_content222">
+<ul>
+<li><a href='/i/98870.html' title="2017年欧美7.1分剧情片《一呼一吸》BD中字">2017年欧美7.1分剧情片《一呼一吸》BD中字</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98869.html' title="2017年国产6.0分剧情片《时间去哪儿了》HD高清中字">2017年国产6.0分剧情片《时间去哪儿了》HD高清中字</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98867.html' title="2017年日本6.1分动作片《武曲》BD日语中字">2017年日本6.1分动作片《武曲》BD日语中字</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/98866.html' title="2017年欧美7.3分剧情片《追捕聂鲁达》BD中字">2017年欧美7.3分剧情片《追捕聂鲁达》BD中字</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/98865.html' title="2017年美国6.6分剧情片《麦田里的反叛者》BD中英双字">2017年美国6.6分剧情片《麦田里的反叛者》BD中英双字</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/98863.html' title="2017年欧美6.1分喜剧片《疯狂特警队》BD法语中字">2017年欧美6.1分喜剧片《疯狂特警队》BD法语中字</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/98862.html' title="2017年日本恐怖片《童使》BD日语中字">2017年日本恐怖片《童使》BD日语中字</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/98861.html' title="2017年日本6.4分剧情片《昼颜电影版》BD日语中字">2017年日本6.4分剧情片《昼颜电影版》BD日语中字</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/98859.html' title="2017年日本6.3分喜剧片《不干了我开除了黑心公司》BD日语中字">2017年日本6.3分喜剧片《不干了我开除了黑心公司》BD日语中字</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/98857.html' title="2017年欧美6.8分喜剧片《夺金四贱客》HD高清德语中字">2017年欧美6.8分喜剧片《夺金四贱客》HD高清德语中字</a><span><font color=#FF0000>01-01</font></span></li>
+<li><a href='/i/98855.html' title="2017年欧美8.3分剧情片《每分钟120击》BD法语中字">2017年欧美8.3分剧情片《每分钟120击》BD法语中字</a><span><font color=#FF0000>12-31</font></span></li>
+<li><a href='/i/98854.html' title="2017年韩国7.1分惊悚片《记忆之夜》HD高清韩语中字">2017年韩国7.1分惊悚片《记忆之夜》HD高清韩语中字</a><span><font color=#FF0000>12-31</font></span></li>
+<li><a href='/i/98850.html' title="2017年印度喜剧片《开心一组4》BD中英双字">2017年印度喜剧片《开心一组4》BD中英双字</a><span><font color=#FF0000>12-29</font></span></li>
+<li><a href='/i/98849.html' title="2016年欧美7.6分动作片《少年犯》BD中字">2016年欧美7.6分动作片《少年犯》BD中字</a><span><font color=#FF0000>12-29</font></span></li>
+<li><a href='/i/98844.html' title="2017年韩国6.3分喜剧片《兄弟》HD韩语中字">2017年韩国6.3分喜剧片《兄弟》HD韩语中字</a><span><font color=#FF0000>12-28</font></span></li>
+</ul>
+</div>
+</div>
+<div class="co_area2" style="float:left;width:470px;height:auto;overflow:hidden;margin-left:6px;">
+<div class="title_all"><p><span style="float:left;">六月经典大片</span><em style="float:right;"><a href="/html/gndy/jddyy/">更多>></a></em></p></div>
+<div class="co_content222">
+<ul>
+<li><a href='/i/98853.html' title="十二月经典美国7.6分动作片《史密斯夫妇》BD国英双语双字">十二月经典美国7.6分动作片《史密斯夫妇》BD国英双语双字</a><span><font color=#FF0000>12-30</font></span></li>
+<li><a href='/i/98837.html' title="十二月经典美国8.0分犯罪片《老无所依》BD国英双语双字">十二月经典美国8.0分犯罪片《老无所依》BD国英双语双字</a><span><font color=#FF0000>12-26</font></span></li>
+<li><a href='/i/98827.html' title="十二月经典欧美7.7分剧情片《戴珍珠耳环的少女》BD国英双语双字">十二月经典欧美7.7分剧情片《戴珍珠耳环的少女》BD国英双语双字</a><span><font color=#FF0000>12-24</font></span></li>
+<li><a href='/i/98802.html' title="十二月经典美国8.6分剧情片《荒野生存》BD中英双字">十二月经典美国8.6分剧情片《荒野生存》BD中英双字</a><span><font color=#FF0000>12-19</font></span></li>
+<li><a href='/i/98789.html' title="十二月经典美国8.1分动作片《守望者》BD中英双字">十二月经典美国8.1分动作片《守望者》BD中英双字</a><span><font color=#FF0000>12-16</font></span></li>
+<li><a href='/i/98776.html' title="十二月经典欧美8.2分爱情片《成为简·奥斯汀》BD国英双语双字">十二月经典欧美8.2分爱情片《成为简·奥斯汀》BD国英双语双字</a><span><font color=#FF0000>12-13</font></span></li>
+<li><a href='/i/98753.html' title="十二月经典欧美7.8分喜剧片《超市夜未眠》BD中英双字">十二月经典欧美7.8分喜剧片《超市夜未眠》BD中英双字</a><span><font color=#FF0000>12-09</font></span></li>
+<li><a href='/i/98724.html' title="十二月经典美国7.9分剧情片《守法公民》BD中英双字">十二月经典美国7.9分剧情片《守法公民》BD中英双字</a><span><font color=#FF0000>12-04</font></span></li>
+<li><a href='/i/98715.html' title="十二月经典美国7.5分悬疑片《死寂》BD中英双字">十二月经典美国7.5分悬疑片《死寂》BD中英双字</a><span><font color=#FF0000>12-01</font></span></li>
+<li><a href='/i/98695.html' title="十一月经典美国6.5分喜剧片《霹雳娇娃2》BD国英双语双字">十一月经典美国6.5分喜剧片《霹雳娇娃2》BD国英双语双字</a><span><font color=#FF0000>11-27</font></span></li>
+<li><a href='/i/98691.html' title="十一月经典欧美6.7分动作片《霹雳娇娃》BD国英双语双字">十一月经典欧美6.7分动作片《霹雳娇娃》BD国英双语双字</a><span><font color=#FF0000>11-25</font></span></li>
+<li><a href='/i/98672.html' title="十一月经典美国8.9分剧情片《当幸福来敲门》BD国英双语双字">十一月经典美国8.9分剧情片《当幸福来敲门》BD国英双语双字</a><span><font color=#FF0000>11-21</font></span></li>
+<li><a href='/i/98656.html' title="十一月经典欧美8.5分剧情片《朗读者》BD中英双字">十一月经典欧美8.5分剧情片《朗读者》BD中英双字</a><span><font color=#FF0000>11-17</font></span></li>
+<li><a href='/i/98643.html' title="十一月经典美国6.7分科幻片《蝴蝶效应3：启示》BD中英双字">十一月经典美国6.7分科幻片《蝴蝶效应3：启示》BD中英双字</a><span><font color=#FF0000>11-13</font></span></li>
+<li><a href='/i/98631.html' title="十一月经典美国科幻片《蝴蝶效应2》BD中英双字">十一月经典美国科幻片《蝴蝶效应2》BD中英双字</a><span><font color=#FF0000>11-10</font></span></li>
+</ul>
+</div>
+</div>
+</div>
+<!--电视剧-->
+<div style="width:950px;height:auto;overflow:hidden;margin:10px 0 0 2px;">
+<div class="co_area2" style="float:left;width:470px;height:auto;overflow:hidden;">
+<div class="title_all"><p><span style="float:left;"><a href="/html/tv/hytv/">华语电视剧</a></span><em style="float:right;"><a href="/html/tv/hytv/">更多>></a></em></p></div>
+<div class="co_content222">
+<ul>
+<li><a href='/i/98725.html' title="2017年大陆国产剧《花谢花飞花满天》连载至53">2017年大陆国产剧《花谢花飞花满天》连载至53</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98746.html' title="2017年大陆国产剧《大军师司马懿之虎啸龙吟/军师联盟2 》连载至34">2017年大陆国产剧《大军师司马懿之虎啸龙吟/军师联盟2 》</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98860.html' title="2017年大陆国产剧《心如铁》连载至8">2017年大陆国产剧《心如铁》连载至8</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98845.html' title="2017年大陆国产剧《艳骨》连载至14">2017年大陆国产剧《艳骨》连载至14</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98821.html' title="2017年大陆国产剧《风筝(电视剧)》连载至29">2017年大陆国产剧《风筝(电视剧)》连载至29</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98812.html' title="2017年大陆国产剧《花落宫廷错流年》连载至20">2017年大陆国产剧《花落宫廷错流年》连载至20</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98803.html' title="2017年大陆国产剧《那刻的怦然心动》连载至16">2017年大陆国产剧《那刻的怦然心动》连载至16</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98801.html' title="2017年大陆国产剧《琅琊榜2/琅琊榜之风起长林》连载至20">2017年大陆国产剧《琅琊榜2/琅琊榜之风起长林》连载至20</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98794.html' title="2017年大陆国产剧《红蔷薇》连载至32">2017年大陆国产剧《红蔷薇》连载至32</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98731.html' title="2017年大陆国产剧《国士无双黄飞鸿》连载至36">2017年大陆国产剧《国士无双黄飞鸿》连载至36</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98700.html' title="2017年大陆国产剧《极光之恋》连载至44">2017年大陆国产剧《极光之恋》连载至44</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98699.html' title="2017年香港港台剧《溏心风暴3(国语)》连载至35">2017年香港港台剧《溏心风暴3(国语)》连载至35</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98698.html' title="2017年香港港台剧《溏心风暴3(粤语)》连载至35">2017年香港港台剧《溏心风暴3(粤语)》连载至35</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98679.html' title="2017年大陆国产剧《美人如玉剑如虹/九州·海上牧云记》连载至72">2017年大陆国产剧《美人如玉剑如虹/九州·海上牧云记》连</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98614.html' title="2017年香港港台剧《夸世代(粤语)》连载至42">2017年香港港台剧《夸世代(粤语)》连载至42</a><span><font color=#FF0000>01-03</font></span></li>
+</ul>
+</div>
+</div>
+<div class="co_area2" style="float:left;width:470px;height:auto;overflow:hidden;margin-left:6px;">
+<div class="title_all"><p><span style="float:left;"><a href="/html/tv/rihantv/">日韩电视剧</a></span><em style="float:right;"><a href="/html/tv/rihantv/">更多>></a></em></p></div>
+<div class="co_content222">
+<ul>
+<li><a href='/i/98780.html' title="2017年韩国日韩剧《只是相爱的关系》连载至7">2017年韩国日韩剧《只是相爱的关系》连载至7</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98738.html' title="2017年韩国日韩剧《无理的英爱小姐第16季》连载至9">2017年韩国日韩剧《无理的英爱小姐第16季》连载至9</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98706.html' title="2017年韩国日韩剧《前世的冤家们》连载至27">2017年韩国日韩剧《前世的冤家们》连载至27</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98705.html' title="2017年韩国日韩剧《疑问的一胜》连载至22">2017年韩国日韩剧《疑问的一胜》连载至22</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98652.html' title="2017年韩国日韩剧《即使恨也爱你》连载至36">2017年韩国日韩剧《即使恨也爱你》连载至36</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98406.html' title="2017年韩国日韩剧《我男人的秘密》连载至70">2017年韩国日韩剧《我男人的秘密》连载至70</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98799.html' title="2017年韩国日韩剧《坏家伙们2：邪恶都市》连载至6">2017年韩国日韩剧《坏家伙们2：邪恶都市》连载至6</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/98737.html' title="2017年韩国日韩剧《Jugglers》连载至9">2017年韩国日韩剧《Jugglers》连载至9</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/98704.html' title="2017年韩国日韩剧《Two Cops/我的鬼神搭档》连载至22">2017年韩国日韩剧《Two Cops/我的鬼神搭档》连载至22</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/98662.html' title="2017年韩国日韩剧《逆流》连载至36">2017年韩国日韩剧《逆流》连载至36</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/98480.html' title="2017年韩国日韩剧《死亡学校/Andante》连载至15">2017年韩国日韩剧《死亡学校/Andante》连载至15</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/98745.html' title="2017年韩国日韩剧《黑骑士》连载至8">2017年韩国日韩剧《黑骑士》连载至8</a><span><font color=#FF0000>12-31</font></span></li>
+<li><a href='/i/98744.html' title="2017年韩国日韩剧《不是机器人啊》连载至16">2017年韩国日韩剧《不是机器人啊》连载至16</a><span><font color=#FF0000>12-31</font></span></li>
+<li><a href='/i/98682.html' title="2017年韩国日韩剧《理判事判》连载至24">2017年韩国日韩剧《理判事判》连载至24</a><span><font color=#FF0000>12-31</font></span></li>
+<li><a href='/i/98841.html' title="2017年韩国日韩剧《花游记》连载至2">2017年韩国日韩剧《花游记》连载至2</a><span><font color=#FF0000>12-27</font></span></li>
+</ul>
+</div>
+</div>
+</div>
+<div style="width:950px;height:auto;overflow:hidden;margin:10px 0 0 2px;">
+<div class="co_area2" style="float:left;width:470px;height:auto;overflow:hidden;">
+<div class="title_all"><p><span style="float:left;"><a href="/html/tv/oumeitv/">欧美电视剧</a></span><em style="float:right;"><a href="/html/tv/oumeitv/">更多>></a></em></p></div>
+<div class="co_content222">
+<ul>
+<li><a href='/i/98488.html' title="2017年美国欧美剧《天赋异禀第一季》连载至11">2017年美国欧美剧《天赋异禀第一季》连载至11</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98478.html' title="2017年美国欧美剧《路西法第三季》连载至11">2017年美国欧美剧《路西法第三季》连载至11</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/98600.html' title="2015年美国欧美剧《弗兰肯斯坦传奇第一季》连载至6">2015年美国欧美剧《弗兰肯斯坦传奇第一季》连载至6</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/97798.html' title="2017年美国欧美剧《时间奇人/两世奇人第一季》连载至12">2017年美国欧美剧《时间奇人/两世奇人第一季》连载至12</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/98852.html' title="2017年美国欧美剧《黑镜第四季》连载至2">2017年美国欧美剧《黑镜第四季》连载至2</a><span><font color=#FF0000>01-01</font></span></li>
+<li><a href='/i/98487.html' title="2017年美国欧美剧《谷中十日第一季》连载至5">2017年美国欧美剧《谷中十日第一季》连载至5</a><span><font color=#FF0000>01-01</font></span></li>
+<li><a href='/i/98848.html' title="2017年美国欧美剧《微缩屋工匠》连载至2">2017年美国欧美剧《微缩屋工匠》连载至2</a><span><font color=#FF0000>12-30</font></span></li>
+<li><a href='/i/98748.html' title="2017年美国欧美剧《骑士陨落第一季》连载至4">2017年美国欧美剧《骑士陨落第一季》连载至4</a><span><font color=#FF0000>12-29</font></span></li>
+<li><a href='/i/98846.html' title="2017年美国欧美剧《白闻名/白色名望第一季》连载至2">2017年美国欧美剧《白闻名/白色名望第一季》连载至2</a><span><font color=#FF0000>12-28</font></span></li>
+<li><a href='/i/98847.html' title="2017年美国欧美剧《愿望清单第二季》连载至2">2017年美国欧美剧《愿望清单第二季》连载至2</a><span><font color=#FF0000>12-28</font></span></li>
+<li><a href='/i/98673.html' title="2017年美国欧美剧《离家童盟第一季》连载至8">2017年美国欧美剧《离家童盟第一季》连载至8</a><span><font color=#FF0000>12-28</font></span></li>
+<li><a href='/i/98842.html' title="2017年美国欧美剧《洛城到赌城/洛维航线第一季》连载至1">2017年美国欧美剧《洛城到赌城/洛维航线第一季》连载至1</a><span><font color=#FF0000>12-27</font></span></li>
+<li><a href='/i/98720.html' title="2017年美国欧美剧《神盾局特工第五季》连载至5">2017年美国欧美剧《神盾局特工第五季》连载至5</a><span><font color=#FF0000>12-26</font></span></li>
+<li><a href='/i/98703.html' title="2017年美国欧美剧《格莫拉第三季》连载至5">2017年美国欧美剧《格莫拉第三季》连载至5</a><span><font color=#FF0000>12-26</font></span></li>
+<li><a href='/i/98584.html' title="2017年美国欧美剧《盲点第三季》连载至8">2017年美国欧美剧《盲点第三季》连载至8</a><span><font color=#FF0000>12-26</font></span></li>
+</ul>
+</div>
+</div>
+<div class="co_area2" style="float:left;width:470px;height:auto;overflow:hidden;margin-left:6px;">
+<div class="title_all"><p><span style="float:left;">综艺&动漫</span><em style="float:right;"><a href="/html/zongyi2013/">更多>></a></em></p></div>
+<div class="co_content222">
+<ul>
+<li><a href='/i/96972.html' title="2014年港台综艺《爱玩客》连载至20180101">2014年港台综艺《爱玩客》连载至20180101</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/96700.html' title="2016年台湾综艺《小明星大跟班》连载至20180101">2016年台湾综艺《小明星大跟班》连载至20180101</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/96697.html' title="2014年港台综艺《食尚玩家》连载至20180101">2014年港台综艺《食尚玩家》连载至20180101</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/96665.html' title="2014年港台综艺《综艺大热门》连载至20180101">2014年港台综艺《综艺大热门》连载至20180101</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/96664.html' title="2014年港台综艺《型男大主厨》连载至20180101">2014年港台综艺《型男大主厨》连载至20180101</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/96662.html' title="2014年港台综艺《娱乐百分百》连载至20180101">2014年港台综艺《娱乐百分百》连载至20180101</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/96661.html' title="2014年港台综艺《女人我最大》连载至20180101">2014年港台综艺《女人我最大》连载至20180101</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/96652.html' title="2012年大陆综艺《鲁豫有约》连载至20180102">2012年大陆综艺《鲁豫有约》连载至20180102</a><span><font color=#FF0000>01-03</font></span></li>
+<li><a href='/i/97333.html' title="2014年日韩综艺《两天一夜》连载至20171231">2014年日韩综艺《两天一夜》连载至20171231</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/97331.html' title="2017年韩国综艺《无限挑战》连载至20171230">2017年韩国综艺《无限挑战》连载至20171230</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/96702.html' title="2014年大陆综艺《完全娱乐》连载至20171230">2014年大陆综艺《完全娱乐》连载至20171230</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/96699.html' title="2012年港台综艺《超级夜总会》连载至20171230">2012年港台综艺《超级夜总会》连载至20171230</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/96689.html' title="2011年港台综艺《天才冲冲冲》连载至20171230">2011年港台综艺《天才冲冲冲》连载至20171230</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/96685.html' title="2014年日韩综艺《Running Man》连载至20171231">2014年日韩综艺《Running Man》连载至20171231</a><span><font color=#FF0000>01-02</font></span></li>
+<li><a href='/i/96675.html' title="2014年大陆综艺《快乐大本营》连载至20171230">2014年大陆综艺《快乐大本营》连载至20171230</a><span><font color=#FF0000>01-02</font></span></li>
+</ul>
+</div>
+</div>
+</div>
+<!--{start:body content-->
+<div class="bd3">
+<!--{start:广告760-->
+<div class="ad960">
+<ul>
+<center>
+ <script type="text/javascript">if(goPAGE()=="win"){document.writeln("<SCRIPT src='/jsdd/950d.js'></SCR"+"IPT>")}</script>
+</center>
+</ul>
+</div>
+<!--}end:友情链接-->
+<!--{start:footer-->
+<!--{start:友情链接-->
+<!--}end:友情链接-->
+<!--{start:footer-->
+<div class="footer">
+Copyright @ 2006-2016 电影天堂-www.dy2018.com. All Rights Reserved
+<script language=javascript src="/js17/syf.js"></script>
+<script language=javascript src="/js/tj.js"></script>
+<br/>
+</div>
+</div>
+<!--}end:footer-->
+<!--}end:body conten-->
+<br/>
+</body>
+</html>
